@@ -26,5 +26,3 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
-
-// 78-6
