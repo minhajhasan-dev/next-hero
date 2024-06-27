@@ -12,7 +12,6 @@ export const metadata = {
 };
 
 const page = async () => {
-  const currentTime = await getTime();
   return (
     <div
       className={` ${dancingScript.className} min-h-96 bg-gray-100 px-12 py-24`}
